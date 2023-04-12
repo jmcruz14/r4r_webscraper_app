@@ -8,7 +8,7 @@ if __name__ == '__main__':
 
     while __name__ == '__main__':
         print("Hour", n)
-        exec(open("index.py").read())
+        exec(open("index_webscraper_code.py").read())
         n += 1
         print("Come back in 1 hour.")
         # if n = (insert hour counter value here):
